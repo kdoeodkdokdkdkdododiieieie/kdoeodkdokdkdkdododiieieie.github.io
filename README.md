@@ -11,5 +11,5 @@ I'm surprised you're even out here checking the repo. Normally no one cares.
 
 
         ✯ Inspiration: NTTS & Vee's website               
-        ✯ Forked from [this](https://github.com/pages-themes/midnight)
+        ✯ Forked from https://github.com/pages-themes/midnight, but I made the background black entirely.
 
