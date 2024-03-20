@@ -1,7 +1,5 @@
 ## ello!
-[contact me](https://github.com/bobbledbobby/bobbledbobby.github.io/new/master#contact-me)
-|
-easter[ ](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/not-an-easteregg.md#easter-egg) egg: sketches/blogs/stories...
+[contact me](https://github.com/bobbledbobby/bobbledbobby.github.io/new/master#contact-me) | [what do I do?](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/what-do-i-do.md#what-do-i--do) | easter[ ](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/not-an-easteregg.md#easter-egg) egg: sketches/blogs/stories...
 
 they/them ♦ asexual
 
@@ -12,8 +10,6 @@ they/them ♦ asexual
   * I imagine things to draw things. For example, give me a corner somewhere, and I'll try to draw the rest, I guess!
   * I'm a swiftie, I listen to dream, rachel platten and basically everything!
 * **💀 I'm funny (sometimes)**
-* **Professional tax evader**
-  * this is a joke pls dont sue me
 
 ## What do I specifically do?
 * I like to fork random things from Github & add stuff.
