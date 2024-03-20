@@ -1,5 +1,6 @@
 ## ello!
-**stupidest individual alive.**
+[contact me](https://github.com/bobbledbobby/bobbledbobby.github.io/new/master#contact-me)
+there's an easter egg within this sentence of the website, can you find it?
 
 
 they/them ♦ asexual
