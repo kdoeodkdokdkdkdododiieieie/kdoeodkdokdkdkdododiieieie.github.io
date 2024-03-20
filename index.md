@@ -11,15 +11,3 @@ they/them ♦ asexual
   * I'm a swiftie, I listen to dream, rachel platten and basically everything!
 * **💀 I'm funny (sometimes)**
 
-## What do I specifically do?
-* I like to fork random things from Github & add stuff.
-* I like spotify, and sketching!
-* I mod Discord servers!
-  * You can DM me about this!
-  * brokentherapist.exe: ~300 members
-* **📨 Address** You can meet me IRL at `Planet Earth, Solar System, Milky Way, Observable Universe, Universe`!
-
-## .
-
-There is an easter egg in this site, find it and I may reveal my 💀 sketches and stories
-
