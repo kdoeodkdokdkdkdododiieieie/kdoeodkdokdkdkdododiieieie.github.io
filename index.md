@@ -1,7 +1,7 @@
 ## ello!
 [contact me](https://github.com/bobbledbobby/bobbledbobby.github.io/new/master#contact-me)
-there's an easter egg within this sentence of the website, can you find it?
-
+|
+easter[ ](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/not-an-easteregg.md#easter-egg) egg: sketches/blogs/stories...
 
 they/them ♦ asexual
 
@@ -21,15 +21,6 @@ they/them ♦ asexual
 * I mod Discord servers!
   * You can DM me about this!
   * brokentherapist.exe: ~300 members
-
-## Contact Me!
-* **💬 Discord**: `bob.bletea`
-  * DM me if you want to talk!
-  * I administrate servers!
-  * I review servers, DM me your server if you want me to review 'em!
-  * I also moderate servers.
-* **. ͡° ͜ʖ ͡°** **StoryZink** Send me a private, anonymous message: `~`
-* **🐈‍⬛ GitHub**: `bobbledbobby`
 * **📨 Address** You can meet me IRL at `Planet Earth, Solar System, Milky Way, Observable Universe, Universe`!
 
 ## .
