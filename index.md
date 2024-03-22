@@ -1,5 +1,4 @@
 ## ello!
-[contact me](https://github.com/bobbledbobby/bobbledbobby.github.io/new/master#contact-me) | [what do I do?](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/what-do-i-do.md#what-do-i--do) | easter[ ](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/not-an-easteregg.md#easter-egg) egg: sketches/blogs/stories...
 
 they/them ♦ asexual
 
