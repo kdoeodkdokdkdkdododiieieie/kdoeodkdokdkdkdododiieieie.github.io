@@ -17,7 +17,7 @@
   * She's a decent moderator. She punishes people, but as I said, no one's faster than Adam.
   * She gets one bonus point for making Henri.
  
- ## Head Moderators
+## Head Moderators
  * **melody**:
    * average mod ig
  * **anorigix**:
