@@ -29,7 +29,7 @@
    * average mod ig
  * **anorigix**:
    * chillest hmod.
-   * extra point for putting `her/shey` as pronouns
+   * extra point for putting `her/shey` as pronouns (mr beast will not appreciate tho)
  * **undermaster**:
    * nice mod
    * gets extra point for participating in the 2022 april fools tom foolery
