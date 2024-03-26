@@ -9,4 +9,4 @@ layout: default
 Wow, you caught an easter egg. Congrats!
 
 ## Blogs I wrote
-* [Is Discord Nitro a scam?](https://github.com/bobbledbobby/bobbledbobby.github.io/blob/master/blog1.md#is-discord-nitro-a-scam)
+* [Is Discord Nitro a scam?](vhttps://bobbledbobby.github.io/blog1.html)
