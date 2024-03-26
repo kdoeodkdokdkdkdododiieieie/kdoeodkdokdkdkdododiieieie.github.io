@@ -12,7 +12,8 @@
   * However, he is the only fast one in SW. If someone breaks a rule, it's better to just `@Adam` instead of littearly any other mod.
 * **Braden**:
   * Yeah sure he's a good mod. He punishes people correctly, right?
-  * No. He sometimes `>warns` for no reason and lockdowns the server.
+  * No. He sometimes `>warn` for no reason and lockdowns the server.
+  * He's a good mod though.
 * **PinkUnicorn**:
   * Why is she on this list? She got SoTM multiple times and honorable-mentioned multiple times. Heck, why is she not HMod?
 * **cubez**:
