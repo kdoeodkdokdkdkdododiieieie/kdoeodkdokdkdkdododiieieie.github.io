@@ -17,9 +17,15 @@
   * She gets one bonus point for making Henri.
  ## Head Moderators
  * **melody**:
-   * uhh, average mod.
+   * average mod ig
  * **anorigix**:
    * chillest hmod.
+   * extra point for putting `her/shey` as pronouns
  * **undermaster**:
    * nice mod
-   * gets extra point for participating in the 4/2022 tom foolery
+   * gets extra point for participating in the 2022 april fools tom foolery
+## Adminstrators
+i dont know em so
+## Owner
+* **SoundDrout**:
+  * never mods, smh
