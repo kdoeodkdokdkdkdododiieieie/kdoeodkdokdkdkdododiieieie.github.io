@@ -3,6 +3,7 @@
 ## Trainee Moderators
 * **Yunno**
   * who the heck
+
 ## Moderators
 * **Adam**:
   * He false bans people and stuff. For example last time, when someone asked someone else "_why did ur pronouns change_", he banned the user for, quote unquote, transphobia.
@@ -15,6 +16,7 @@
 * **cubez**:
   * She's a decent moderator. She punishes people, but as I said, no one's faster than Adam.
   * She gets one bonus point for making Henri.
+ 
  ## Head Moderators
  * **melody**:
    * average mod ig
@@ -24,8 +26,10 @@
  * **undermaster**:
    * nice mod
    * gets extra point for participating in the 2022 april fools tom foolery
+
 ## Adminstrators
 i dont know em so
+
 ## Owner
 * **SoundDrout**:
   * never mods, smh
