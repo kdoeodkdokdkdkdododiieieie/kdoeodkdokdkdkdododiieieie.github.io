@@ -8,5 +8,6 @@
   * Imagining things is my favroite things to do.
   * Someone sent me a corner of their house, and I imagined and drew the rest! 
 * 🗑️ I moderate & administrate Discord servers!
-  * You can DM me regarding this!
-  * brokentherapist.exe: ~300 members
+  * You can DM me regarding this, who knows, I might moderate yours!
+* 📝 I make Discord servers!
+  * I make Discord servers, emojis, channels and bots and stuff
