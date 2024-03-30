@@ -1,4 +1,4 @@
-##  What do I 👀👀👀👀👀👀👀👀👀 do?
+##  What do I 👀👀👀👀👀👀 do?
 [go back](https://bobbledbobby.github.io)
 
 * 🐈‍⬛ I like to fork random things from Github & add stuff.
@@ -7,7 +7,22 @@
 * ✏️ I like spotify, and sketching!
   * Imagining things is my favroite things to do.
   * Someone sent me a corner of their house, and I imagined and drew the rest! 
-* 🗑️ I moderate & administrate Discord servers!
-  * You can DM me regarding this, who knows, I might moderate yours!
-* 📝 I make Discord servers!
-  * I make Discord servers, emojis, channels and bots and stuff
+
+## My side hustle
+Hola! I can make Discord servers, this means if you don't have energy or the time to make a server, install bots, make channels and emojis, I can do it for ya!
+I make Discord servers, this means you can count on me to make templates:
+* Rules channel
+* Roles, this means
+  * Permissions
+  * Levels
+  * Art, Writers roles!
+  * Private roles
+  * Colors
+  * Role info channels
+ * I can set up bots! "Bots" in this category means:
+   * Welcome Messages
+   * Levelling
+   * Logging
+   * Basically almost anything you can imagine!
+ * Da super cool emojis
+   
