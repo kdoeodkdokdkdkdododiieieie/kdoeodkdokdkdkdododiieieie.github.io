@@ -4,7 +4,7 @@
 * ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/50df4b63-b73a-47e4-a1c4-d337c73ee255)
  **Discord**: `bob.bletea`
   * DM me if you want to talk littearly about anything!
-  * I administrate and moderate servers. (See more on my [side hustle page](https://bobbledbobby.com/what-do-i-do.html))
+  * I administrate and moderate servers. (See more on my [side hustle page]([https://bobbledbobby.com/what-do-i-do.html](https://bobbledbobby.github.io/what-do-i-do.html))
   * I also review servers.
 * ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/cb4f7a29-57a4-44cb-9490-32be3adaedb7)
   **StoryZink** Send me a private, anonymous message: `~`
