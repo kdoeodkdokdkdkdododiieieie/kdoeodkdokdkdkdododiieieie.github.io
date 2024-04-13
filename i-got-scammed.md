@@ -37,11 +37,15 @@ The account has the Discord Staff [![image](https://github.com/bobbledbobby/bobb
 * **NOTE**: Do not change any settings in your profile, including your email or password.
 
 ## NSFW/Job ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/20f4cd28-1e96-419e-a181-b3bc3629d5d7) Server scam
-You have three possible outcomes:
 
-### Outcome 1
+##
 You needed to verify on a FAKE bot. Or it's a real bot, sending a customized webhook.
- * **NOTE**: No bot will ever ask you to scan a QR code unless it's a scam.
-If you scanned the QR code:
+ * **NOTE**: PLEASE look at the link of the site that you're logging into. Also make sure it's not a 
 * Go to User Settings
-* Change 
+* Devices > Log Out of all known devices
+* Change your Passsword
+* My Account > Reset Backup codes
+* Check if you sent any messages or DMs with an invite link promoting the server. If your account did send these invite links, tell them it's a scam
+* Turn on 2FA
+
+ See more info here: https://youtu.be/Gc9E_de_jNU?si=bmHKtkQujw9RlixZ
