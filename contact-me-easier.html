@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+            <form action="https://formspree.io/f/xjvnpzar" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website">
+                <input type="text" name="name" placeholder="Your name" required>
+                <input type="text" name="subject" placeholder="Subject" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <!-- You can also add a field for Discord -->
+                <!-- <input type="text" name="discord" placeholder="Discord username"> -->
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
