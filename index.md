@@ -16,7 +16,7 @@ Hey! I am a 14-15 year old from the internet that loves messing with stuff.
 
 ## Paths
 Here are some paths of the website:
-- [Contact Me](https://bobbledbobby.github.io/contact-me.html)
-- [What do I do + Side Hustle](https://bobbledbobby.github.io/what-do-i-do.html)
-- [My Sketches/Blogs](https://bobbledbobby.github.io/not-an-easteregg.html)
+- [Contact Me](https://bobbledbobby.github.io/contact-me)
+- [What do I do + Side Hustle](https://bobbledbobby.github.io/what-do-i-do)
+- [My Sketches/Blogs](https://bobbledbobby.github.io/not-an-easteregg)
 
