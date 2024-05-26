@@ -1,5 +1,5 @@
 # ello!!
-they/them            (≧▽≦)             asexual
+they/them
 
 ###### .
 
@@ -10,14 +10,13 @@ Hey! I am a 14 year old from the internet that loves messing with stuff.
 * ✏️ I like spotify, sketching, writing and most importantly, _breathing air_.
   * I imagine things!
   * When I see something interesting, I just recreate it in my sketchbook
-  * I also do scrapbooking!
+  * I do scrapbooking
   * I also write parodies on my Wattpad
 * 💀 I'm **funny (sometimes)**
 
 ## Paths
 Here are some paths of the website:
 - [Contact Me](https://kodedkodie.github.io/contact-me)
-- [What do I do + Side Hustle](https://kodedkodie.github.io/what-do-i-do)
-- [My Sketches/Blogs](https://kodedkodie.github.io/not-an-easteregg)
+- [What do I do + Accomplishments](https://kodedkodie.github.io/what-do-i-do)
 - [Friends](https://kodedkodie.github.io/friends)
 
