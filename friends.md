@@ -1,4 +1,6 @@
 # Friends
+[go back](https://kodedkodie.carrd.co)
+
 Friends from the worse social media platform.
 
 ## Aru
