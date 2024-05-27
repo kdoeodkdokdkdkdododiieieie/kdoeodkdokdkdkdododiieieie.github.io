@@ -6,6 +6,8 @@
 * ✏️ I also write parodies on Wattpad
 
 ### Accomplishments
-- Breathed oxygen
-- Designed a poster for a school play
-- Designed a banner for a 100k member server
+Acheivements:
+ - Breathed oxygen
+ - Made poster for school pay
+ - Made banner for a 100k member server
+ - Wrote a parody on Wattpad
