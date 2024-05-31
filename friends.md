@@ -60,6 +60,8 @@ Best staff, never got into an argument!
 - **How we met:** [the ntts server](https://discord.gg/ntts)
 - **Pronouns:** she/her
 - **Age:** 16
+
+
 _"Without the idiots this server would only have the staff team"_
 -- Maya, april 2024
 
