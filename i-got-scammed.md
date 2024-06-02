@@ -48,11 +48,12 @@ NOTE**: PLEASE look at the link of the site that you're logging into. If you wis
 So, if you fell for it:
 * Go to User Settings
 * Change your Passsword
-* My Account > Reset Backup codes
+* Reset Backup codes
 * Check if you sent any messages or DMs with an invite link promoting the server. If your account did send these invite links, tell them it's a scam.
 * Turn on 2FA
 
  ## A deep dive
+ 
  Half the stuff I said made no sense. So if you fell into one of those scams, just read what I wrote. If you want to do a deep dive, check out No Text To Speech's video about it:
 
  
