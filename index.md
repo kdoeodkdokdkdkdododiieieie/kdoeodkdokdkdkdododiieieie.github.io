@@ -19,4 +19,5 @@ Here are some paths of the website:
 - [Contact Me](https://kodedkodie.github.io/contact-me)
 - [What do I do + Accomplishments](https://kodedkodie.github.io/what-do-i-do)
 - [Friends](https://kodedkodie.github.io/friends)
+- [About Scams](https://kodedkodie.github.io/i-got-scammed)
 
