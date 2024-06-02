@@ -52,9 +52,8 @@ So, if you fell for it:
 * Check if you sent any messages or DMs with an invite link promoting the server. If your account did send these invite links, tell them it's a scam.
 * Turn on 2FA
 
- ## A deep dive
- 
- Half the stuff I said made no sense. So if you fell into one of those scams, just read what I wrote. If you want to do a deep dive, check out No Text To Speech's video about it:
+## A deep dive
+Half the stuff I said made no sense. So if you fell into one of those scams, just read what I wrote. If you want to do a deep dive, check out No Text To Speech's video about it:
 
  
 [![image-removebg-preview (81)](https://github.com/kodedkodie/kodedkodie.github.io/assets/154967011/18fae80e-08fb-4be9-b6d2-b01b5fa3e52d)](https://www.youtube.com/watch?v=Jz-3goOPj9o)
