@@ -19,19 +19,6 @@ _"rule 1: no one dies here"_
 
 ###### .
 
-## sharsame
-concerning 15 year old
-- **Username:** sharsame
-- **How we met:** [the ntts server](https://discord.gg/ntts)
-- **Pronouns:** they/them
-- **Age:** 15
-  
-  
-_"Booby traps? sure, I'd easily fall into a trap if I saw b**bs"_
--- shar, april 2024
-
-###### .
-
 ## Mio
 chill fella
 - **Username:** localobjectionuser
@@ -46,7 +33,7 @@ _"Post this cat when they least expected it"_
 ###### .
 
 ## Rob
-chill 19 year old
+chill person
 - **Username:** robskan
 - **How we met:** [the awesome sauces server](https://dsc.gg/sauces)
 - **Pronouns:** he/him
@@ -55,7 +42,7 @@ chill 19 year old
 ###### .
 
 ## MAYA?!
-Best staff, never got into an argument!
+one of the best sauces ever!
 - **Username:** august9th
 - **How we met:** [the ntts server](https://discord.gg/ntts)
 - **Pronouns:** she/her
@@ -64,14 +51,3 @@ Best staff, never got into an argument!
 
 _"Without the idiots this server would only have the staff team"_
 -- Maya, april 2024
-
-###### .
-
-## Zaynedrift
-can be easily blocked by
-- **Username:** zaynedrift
-- **How we met:** [the awesome sauces server](https://dsc.gg/sauces)
-- **Pronouns:** she/they
-- **Age:** 14
-
-###### .
