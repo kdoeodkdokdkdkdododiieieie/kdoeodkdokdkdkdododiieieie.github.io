@@ -10,4 +10,4 @@
 
 
 
-Oh, what's that? You want to contact me, but you don't want to login with social media or anything (you might need to login with your email if you want to see my response), you can go [here](https://kodedkodie.github.io/contact-me-easier) <3
+If you want to contact me, but you don't want to login with social media or anything (you might need to login with your email if you want to see my response), you can go [here](https://kodedkodie.github.io/contact-me-easier) <3
