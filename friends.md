@@ -1,5 +1,5 @@
 # Friends
-[go back](https://kodedkodie.github.io)
+[home](https://kodedkodie.github.io)
 
 Friends from the worse social media platform.
 
