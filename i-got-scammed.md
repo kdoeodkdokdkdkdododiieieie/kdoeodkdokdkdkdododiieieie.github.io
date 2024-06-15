@@ -1,4 +1,5 @@
 # ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/c3204f56-367e-4add-a395-762ea3f36b30)   Scams
+[home](https://kodedkodie.github.io)
 
 ## I got "Free" ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/c083049e-3d03-4931-b47f-0b9c8cfb2763)
 
