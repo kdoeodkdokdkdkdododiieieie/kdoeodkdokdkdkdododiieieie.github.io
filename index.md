@@ -7,7 +7,13 @@ Hey! Call me Kodie.
 * 😐 I'm **funny (sometimes)**
 * 🤓 I hate the `Sound's World` server.
 
-I have a Discord account to chat with my friends and cool people (psst, you! but don't tell the others.) My user is `kodedkodie`. I do not have friend requests open unless if you're a friend of a friend of mine. My DMs are open if we have one mutual server. You can use my DMs if you have any music suggestions. Yes, this is a cry for help, I desperately need music recommendations. Or you can just use my DMs if you want to talk about literally ANYTHING! To be honest, I'd prefer if you would go to the servers I talk in, like [NTTS](https://discord.gg/ntts) or [BTE](https://discord.gg/EzHjKDJJZ3). Just don't send me anything NSFW/NSFL. For more of my social media, you can go [here](https://kodedkodie.github.io/contact-me). I do have Reddit if I want to have a good laugh.
+######  
+
+I have a Discord account to chat with my friends and cool people (psst, you! but don't tell the others.) My user is `kodedkodie`. My friend requests are open if you're a friend of a friend. My DMs are open. 
+
+You can use my DMs if you have any music suggestions (yes, this is a cry for help, I desperately need music recommendations) or if you want to talk about literally anything! To be honest, I'd prefer if you would go to the servers I talk in, like [NTTS](https://discord.gg/ntts) or [BTE](https://discord.gg/EzHjKDJJZ3). Just don't send me anything NSFW/NSFL. For more of my social media, you can go [here](https://kodedkodie.github.io/contact-me). I do have Reddit if I want to have a good laugh.
+
+######  
 
 ## Statuses
 * **🟢 Online:** on the platform as we speak
