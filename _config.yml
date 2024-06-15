@@ -1,5 +1,5 @@
 title: Kodie's Site
 description: My personal site.
-show_downloads: false
-google_analytics: false
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-midnight
