@@ -1,14 +1,19 @@
 # ello!!
-they/them
 
-###### .
-
-Hey!
+Hey! Call me Kodie.
 * **😼 ISTP-T**
   * Am an introvert. Don't talk to me, I'll talk to you.
 * ✏️ I like sketching and writing.
 * 😐 I'm **funny (sometimes)**
 * 🤓 I hate the `Sound's World` server.
+
+I have a Discord account to chat with my friends and cool people (psst, you! but don't tell the others.) My user is `kodedkodie`. I do not have friend requests open unless if you're a friend of a friend of mine. My DMs are open if we have one mutual server. You can use my DMs if you have any music suggestions. Yes, this is a cry for help, I desperately need music recommendations. Or you can just use my DMs if you want to talk about literally ANYTHING! To be honest, I'd prefer if you would go to the servers I talk in, like [NTTS](https://discord.gg/ntts) or [BTE](https://discord.gg/EzHjKDJJZ3). Just don't send me anything NSFW/NSFL. For more of my social media, you can go [here](https://kodedkodie.github.io/contact-me). I do have Reddit if I want to have a good laugh.
+
+## Statuses
+* **🟢 Online:** on the platform as we speak
+* **🌙 Idle:** on the computer but not on the platform. however I check the platform reguarly for unread messages/pigns
+* **🔴 Do Not Disturb:** either i'm not in the mood or i'm in class where I need to focus
+* **⚪ Offline:** irl stuff. if i'm on invisible, i just woke up today and decided to lurk ;)
 
 ## Paths
 Here are some paths of the website:
