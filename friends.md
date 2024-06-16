@@ -52,7 +52,7 @@ _"Without the idiots this server would only have the staff team"_
 
 ## Penny
 No balls to text
-- **Username:** august9th
+- **Username:** ?
 - **How we met:** [ntts server](https://discord.gg/ntts)
 - **Pronouns:** she/her
 - **Age:** ?
@@ -65,7 +65,7 @@ _"you forgot your d at home or something?"_
 
 ## Mint
 BEST SAUCE I SWEAR
-- **Username:** inbamint
+- **Username:** inabamint
 - **How we met:** [ntts server](https://discord.gg/ntts)
 - **Pronouns:** she/her
 - **Age:** 14
