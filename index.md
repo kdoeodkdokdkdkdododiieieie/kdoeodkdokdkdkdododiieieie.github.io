@@ -1,6 +1,6 @@
-# ello!!
+# Hey there!
 
-Hey! Call me Kodie.
+I'm Kodie!
 * **😼 ISTP-T**
   * Am an introvert. Don't talk to me, I'll talk to you.
 * ✏️ I like sketching and writing.
