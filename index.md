@@ -17,7 +17,7 @@ You can use my DMs if you have any music suggestions (yes, this is a cry for hel
 
 ## Statuses
 * **🟢 Online:** on the platform as we speak
-* **🌙 Idle:** on the computer but not on the platform. however I check the platform reguarly for unread messages/pigns
+* **🌙 Idle:** on the computer but not on the platform. however I check the platform reguarly for unread messages/pings
 * **🔴 Do Not Disturb:** either i'm not in the mood or i'm in class where I need to focus
 * **⚪ Offline:** irl stuff. if i'm on invisible, i just woke up today and decided to lurk ;)
 
