@@ -1,6 +1,8 @@
 ## Contact Me
 [home](https://kodedkodie.github.io)
 
+Please check the website [nohello.net](https://nohello.net) before contacting me.
+
 * ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/50df4b63-b73a-47e4-a1c4-d337c73ee255)
  **Discord:** [`kodedkodie`](https://discord.com/users/1112373063296753766)
 *  ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/21861b64-5d9b-4334-9eaa-b5f8ea2a2f27)
