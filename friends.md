@@ -1,22 +1,10 @@
 # Friends
 [home](https://kodedkodie.github.io)
 
-Friends from the worse social media platform.
-
-
-######  
-
-## Mio
-chill fella
-- **Username:** ?
-- **How we met:** [ntts server](https://discord.gg/ntts)
-- **Pronouns:** any
-- **Age:** 14
-
-######  
+Friends from the worse social media platform
 
 ## sharsame
-Made cool Character AI chatbots!
+Made cool Character AI chatbots
 - **Username:** sharsame
 - **How we met:** [ntts server](https://discord.gg/ntts)/[shar's server](https://discord.gg/[ntts](https://discord.gg/nTMEdUG8AV))
 - **Pronouns:** they/them
@@ -52,7 +40,7 @@ _"Without the idiots this server would only have the staff team"_
 
 ## Penny
 No balls to text
-- **Username:** ?
+- **Username:** brasspenny.xyz
 - **How we met:** [ntts server](https://discord.gg/ntts)
 - **Pronouns:** she/her
 - **Age:** ?
@@ -86,19 +74,10 @@ Owner of Comet, a cool server and a server dedicated to out of context messages
 
 ## kvba
 COOL BEST SAUCE GAHAHAH
-- **Username:** ?
+- **Username:** .kb.
 - **How we met:** [ntts server](https://discord.gg/ntts)
 - **Pronouns:** he/him
 - **Age:** 19
 
 _"sausage holder"_
 -- Message taken out of context. Kvba, june 2024
-
-######  
-
-## alice
-Rec Room Player
-- **Username:** faehorns
-- **How we met:** [the ntts server](https://discord.gg/ntts)
-- **Pronouns:** she/her
-- **Age:** 19
