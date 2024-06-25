@@ -3,9 +3,10 @@
 I'm Kodie!
 * **😼 ISTP-T**
   * Am an introvert. Don't talk to me, I'll talk to you.
-* ✏️ I like sketching and writing.
-* 😐 I'm **funny (sometimes)**
+* ✏️ I sketch and write.
+* 😐 I'm **funny** (sometimes)
 * 🤓 I hate the `Sound's World` server.
+* 💥 I [collect comics](https://kodedkodie.github.io/wip)
 
 ######  
 
