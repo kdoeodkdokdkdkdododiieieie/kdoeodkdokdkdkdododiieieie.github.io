@@ -9,7 +9,7 @@
 It's a rollout system. This means only a few people gets access to join clans.
 
 **HOWEVER**, to bypass the rollout system you can join this server:
-[![image](https://github.com/kodedkodie/kodedkodie.github.io/assets/154967011/1dd07ae9-039b-422f-b504-e2bd721bcda3)](https://discord.gg/7KpWV6Qux4)
+[![Clan Discovery Discord Server](https://discord.com/api/guilds/1241787240519303309/widget.png)](https://discord.gg/7KpWV6Qux4)
 
 Then, go to the `#guilds` channel and join clans.
 
