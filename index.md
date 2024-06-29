@@ -16,6 +16,7 @@ I'm Kodie!
 ######  
 ## Paths
 Here are some paths of the website:
+- [About Me](https://kodedkodie.github.io/about-me)
 - [Contact Me](https://kodedkodie.github.io/contact-me)
 - [Friends](https://kodedkodie.github.io/friends)
 - [About Scams](https://kodedkodie.github.io/i-got-scammed)
