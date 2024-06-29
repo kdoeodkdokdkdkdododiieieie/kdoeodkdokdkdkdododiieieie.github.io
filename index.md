@@ -11,7 +11,7 @@ I'm Kodie!
 ######  
 ***[🎶](https://youtu.be/kcelgrGY1h8?si=G2NInz-Js-W6ZXbk&t=102) new hair, new tee, [new jeans](https://youtu.be/kcelgrGY1h8?si=G2NInz-Js-W6ZXbk&t=102)***
 
-00:01:42 ─•───────── 00:03:30
+00:01:42 ────•────── 00:03:30
 
 ######  
 ## Paths
