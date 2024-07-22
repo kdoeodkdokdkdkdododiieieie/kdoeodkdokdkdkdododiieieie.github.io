@@ -1,3 +1,5 @@
+# NOTE: THIS ARTICLE IS OUTDATED. IT MAY CONTAIN MISINFORMATION. 
+
 # Friends
 [home](https://kodedkodie.github.io)
 
