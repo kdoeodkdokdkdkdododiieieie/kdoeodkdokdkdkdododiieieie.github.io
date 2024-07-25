@@ -1,5 +1,4 @@
 # Hey there!
-
 I'm Kodie!
 * **😼 ISTP-T**
   * Am an introvert. Don't talk to me, I'll talk to you.
@@ -14,6 +13,10 @@ I'm Kodie!
 00:01:42 ────•────── 00:03:30
 
 ######  
+## URGENT
+Hey! I have recently started a petition, you can check it out [here](https://kodedkodie.github.io/rant3_petition1)!
+######  
+
 ## Paths
 Here are some paths of the website:
 - [About Me](https://kodedkodie.github.io/about-me)
