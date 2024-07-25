@@ -6,4 +6,4 @@ We are asking for one of our co-owners of the No Text To Speech server, Lavernie
 See the full petition by clicking here: \
 [![image](https://github.com/user-attachments/assets/4a78a518-7858-4a38-a840-765bbc97d3d6)](https://change.org/demote-lavernie)
 
-Alternatively, you can click on the link here: https://change.org/demote-lavernie
+Alternatively, you can click on the link here: [https://change.org/demote-lavernie](https://change.org/demote-lavernie)
