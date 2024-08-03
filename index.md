@@ -6,14 +6,6 @@ I'm Kodie!
 * ☠️ I'm **funny** (sometimes)
 * 🤓 I hate the `Sound's World` server.
 * 💥 I [collect comics](https://kodedkodie.github.io/wip)
-###### 
-
-# URGENT
-### Hey! I have recently started a petition, you can check it out [here](https://kodedkodie.github.io/rant3_petition1)!
-######  
-***[🎶](https://youtu.be/kcelgrGY1h8?si=G2NInz-Js-W6ZXbk&t=102) new hair, new tee, [new jeans](https://youtu.be/kcelgrGY1h8?si=G2NInz-Js-W6ZXbk&t=102)***
-
-00:01:42 ────•────── 00:03:30
 
 ######  
 
