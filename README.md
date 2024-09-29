@@ -1,9 +1,5 @@
-# **Source code for [my website](https://kodedkodie.github.io).**
+# **Source code for [my website](https://kodedkodie.github.io)**
 
-* please dont mess around with this
-     * (why are you even here man)
+Please do not mess around with this
 
-## Credits!
-* [Fishy](https://fishy-fish.carrd.co)
-* [NTTS](https://notexttospeech.com)
-* [Miro](https://mirowo.carrd.co)
+I'm too stupid to fix the bugs
