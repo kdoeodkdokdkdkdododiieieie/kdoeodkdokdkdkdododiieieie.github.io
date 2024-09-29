@@ -1,5 +1,5 @@
 # Blog - Easter Egg
-[go back](https://bobbledbobby.github.io/not-an-easteregg.html)
+[home](https://kdoeodkdokdkdkdododiieieie.github.io/)
 ## Is Discord Nitro a Scam?
 
 A lot of people have been begging for Nitro, as if it's your only resource to live & saying "is discord nitro a scam!?11!??" so today, I'll answer that question.
