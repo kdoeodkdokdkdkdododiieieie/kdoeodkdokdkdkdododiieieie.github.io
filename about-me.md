@@ -1,10 +1,10 @@
 # More About Me
-[home](https://kodedkodie.github.io)
+[home](https://kdoeodkdokdkdkdododiieieie.github.io)
 ######  
 
 I have a Discord account to chat with my friends and cool people (psst, you! but don't tell the others.) My user is `kodedkodie`. My friend requests are open if you're a friend of a friend. My DMs are open. Please check the website [nohello.net](https://nohello.net) before DMing me.
 
-You can use my DMs if you have any music suggestions (yes, this is a cry for help, I desperately need music recommendations) or if you want to talk about literally anything! Just don't send me anything NSFW/NSFL. For more of my social media, you can go [here](https://kodedkodie.github.io/contact-me). I do have Reddit if I want to have a good laugh.
+You can use my DMs if you have any music suggestions (yes, this is a cry for help, I desperately need music recommendations) or if you want to talk about literally anything! Just don't send me anything NSFW/NSFL. For more of my social media, you can go [here](/contact-me). I do have Reddit if I want to have a good laugh.
 
 ######  
 
