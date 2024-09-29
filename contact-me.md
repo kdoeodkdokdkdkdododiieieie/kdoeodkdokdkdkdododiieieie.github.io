@@ -1,15 +1,10 @@
-## Contact Me
-[home](https://kodedkodie.github.io)
+## My Socials
+[home](https://kdoeodkdokdkdkdododiieieie.github.io)
 
-Please check the website [nohello.net](https://nohello.net) before contacting me.
+* **![image](https://github.com/user-attachments/assets/61b098b0-80f0-4cda-ba67-7eb86fec1f9d)
+ Discord:** [`kodiebtw`](https://discord.com/users/1112373063296753766)
+*  **![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/21861b64-5d9b-4334-9eaa-b5f8ea2a2f27) Email:** [`kevintran.amet@gmail.com`](mailto:kevintran.amet@gmail.com)
+* **![image](https://github.com/user-attachments/assets/ebb45240-f713-4125-873f-564265d2fa00) Twitter:** [`kodiebtw`](https://twitter.com/kodiebtw)
+* **![image](https://github.com/user-attachments/assets/1a9917c9-16ed-406a-b2fd-935f8069f1a5) Spotify:** [kodie](https://open.spotify.com/user/31bdaxrvzujx2duhuygn3f2yqwxi)
 
-* ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/50df4b63-b73a-47e4-a1c4-d337c73ee255)
- **Discord:** [`kodedkodie`](https://discord.com/users/1112373063296753766)
-*  ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/21861b64-5d9b-4334-9eaa-b5f8ea2a2f27)
-**Email:** [`kevintran.amet@gmail.com`](mailto:kevintran.amet@gmail.com)
-* **![image](https://github.com/kodedkodie/kodedkodie.github.io/assets/154967011/5d21eea8-e525-41fa-be58-6ddbeb4d65ff) Wattpad:** [`kodedkodie`](https://wattpad.com/kodedkodie)
-* **![image](https://github.com/kodedkodie/kodedkodie.github.io/assets/154967011/bcd68e62-4a9b-45ec-8972-aa3de3eee54b) Twitter:** [`kodiebtw`](https://twitter.com/kodiebtw)
-
-
-
-If you want to contact me, but you don't want to login with social media or anything, you can go [here](https://kodedkodie.github.io/contact-me-easier) <3
+If you want to contact me, but you don't want to login with social media or anything, you can go [here](https://kodedkodie.github.io/contact-me-easier).
