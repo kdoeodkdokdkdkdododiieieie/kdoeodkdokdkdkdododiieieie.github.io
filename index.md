@@ -1,5 +1,7 @@
 # Hey there!
-I'm Kodie!
+I am a dude from Vietnam. My birthday is on the September 7th. During my free time, I like writing and listening to indie music.
+I enjoy watching animes, reading mangas, (open-world) games and eating Pho. Games include Minecraft, Among Us and all that stuff.
+
 * I'm an introvert. More specifically, **😼 ISTP-T**
 * ✏️ I sketch and write.
 * ☠️ I'm **funny** (sometimes)
