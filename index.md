@@ -8,10 +8,17 @@ I'm Kodie!
 
 ######  
 
+## My Projects
+* **[My Blog](https://kod-er.blogspot.com/)** - A blog I made.
+* **[Sharnation Wiki](https://bit.ly/sharnation-wiki)** - A wikipage I made for a server my friend owns.
+
+######  
+
 ## Paths
 Here are some paths of the website:
 - [About Me](/about-me)
 - [Contact Me](/contact-me)
 - [About Scams](/i-got-scammed)
 - [About Clans](/clans)
+- [My Projects](/wip)
 
