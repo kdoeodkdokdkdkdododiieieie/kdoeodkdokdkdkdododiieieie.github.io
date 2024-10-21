@@ -1,6 +1,7 @@
 # Hey there!
 I am a dude from Vietnam. My birthday is on the September 7th. During my free time, I like writing and listening to indie music.
-I enjoy watching animes, reading mangas, (open-world) games and eating Pho. Games include Minecraft, Among Us and all that stuff.
+
+I enjoy watching animes, reading mangas, (open-world) games like [Minecraft](https://www.minecraft.net), [Among Us](https://www.innersloth.com/games/among-us/) etc. and eating Pho.
 
 * I'm an introvert. More specifically, **😼 ISTP-T**
 * ✏️ I sketch and write.
