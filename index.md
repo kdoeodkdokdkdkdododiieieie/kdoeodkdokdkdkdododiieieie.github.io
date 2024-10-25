@@ -6,7 +6,6 @@ I enjoy watching animes, reading mangas, (open-world) games like [Minecraft](htt
 * I'm an introvert. More specifically, **😼 ISTP-T**
 * ✏️ I sketch and write.
 * ☠️ I'm **funny** (sometimes)
-* 🤓 I hate the `Sound's World` server.
 * 💥 I [collect comics](/wip)
 
 ######  
