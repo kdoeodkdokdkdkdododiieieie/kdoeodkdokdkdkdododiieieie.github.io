@@ -11,6 +11,6 @@ If you want to talk about literally anything, you can DM me! A very basic thing 
 
 ## More Stuff if you care
 * **Pronouns:** he/him
-* **Sexuality/Gender:** cisgender/heterosexual
+* **Sexuality:** bisexual
 * **Birthday:** September 7th
 * **Personality Thing:** ISTP-T
