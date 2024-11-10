@@ -20,7 +20,7 @@ I enjoy watching animes, reading mangas, (open-world) games like [Minecraft](htt
 Here are some paths of the website:
 - [About Me](/about-me)
 - [Contact Me](/contact-me)
-- [About Scams](/i-got-scammed)
+- [About Scams](/wip)
 - [About Clans](/clans)
 - [My Projects](/wip)
 
