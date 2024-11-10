@@ -1,9 +1,6 @@
 # ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/c3204f56-367e-4add-a395-762ea3f36b30)   Scams
 [home](https://kdoeodkdokdkdkdododiieieie.github.io/)
 
-######  
-###### 
-
 ## ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/20f4cd28-1e96-419e-a181-b3bc3629d5d7) Free Discord Nitro
 
 ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/870bfa63-e004-4e4c-91e8-276894f7f68d)
@@ -25,10 +22,7 @@ If you accidentally authorized the app, do the following:
 * Deauthorize everything with the "Access your email address"
 * Check if you joined any random servers
 
-######  
-###### 
 
- 
 ## ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/20f4cd28-1e96-419e-a181-b3bc3629d5d7) NSFW/Job Server scam
 
 You just got a DM or a message in a server asking you to join a server offering you jobs or a free-NSFW server.
@@ -43,9 +37,6 @@ So, if you fell for it:
 * Turn on 2FA
 
 Side-note, if you're really downbad and you want to see tits, just use google :)
-
-######  
-###### 
 
 
 ## ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/20f4cd28-1e96-419e-a181-b3bc3629d5d7) ![image](https://github.com/bobbledbobby/bobbledbobby.github.io/assets/154967011/980c49e9-4754-4ce2-91d3-0dabf7476f92) "I reported you" Scam
@@ -67,10 +58,7 @@ The account has the Discord Staff [![image](https://github.com/bobbledbobby/bobb
 * **![image](https://github.com/kodedkodie/kodedkodie.github.io/assets/154967011/9280d93c-824d-4d5c-8234-7e398c15d462)
 NOTE**: Do not change any settings in your profile, including your email or password. If you change your email to their email, they can request a password change to the email that they own, which gives your account to the hacker.
 
-######  
-###### 
 
- 
 ## A deep dive
 Half the stuff I said made no sense. So if you fell into one of those scams, just read what I wrote. If you want to do a deep dive, check out No Text To Speech's video about it:
 
